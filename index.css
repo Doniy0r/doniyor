@@ -1,0 +1,39 @@
+.a{
+    margin-left: 100px !important;
+}
+.d{
+    margin-left: 800px!important;
+}
+.w{
+    width: 40% !important;
+}
+.c{
+    background-color: #17563b;
+}
+.k{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.l{
+    margin: 0 auto !important;
+}
+.input{
+    border: none !important;
+    border-bottom: 1px solid black !important;
+    width: 300px !important;
+}
+.p{
+    display: flex !important;
+    flex-direction: row !important;
+    margin-left: 100px !important;
+}
+.i{
+    width: 15%;
+}
+.m{
+    transition: 0.5s;
+}
+.m:hover{
+    background-color: white;
+    color: black;
+}
